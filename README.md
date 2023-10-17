@@ -60,6 +60,8 @@ Buka GitBash lalu masukkan perintah berikut:
 
 
   $ git add README.md
+
+  ![alt text](https://github.com/Raditraikh/BahasaPemrograman/blob/main/WhatsApp%20Image%202023-10-17%20at%2022.32.00_43605292.jpg?raw=true)
   
 
 8. Buat Commit
