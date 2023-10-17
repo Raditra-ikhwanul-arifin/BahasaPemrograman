@@ -15,7 +15,7 @@ Instalasi Git:
 1. Login GitHub:
 
 Login GitHub ke website https://github.com/
-![alt text](?raw=true)
+![alt text](https://github.com/Raditraikh/BahasaPemrograman/blob/main/Gambar2.jpg?raw=true)
 
 2. Selanjutnya Anda bisa melakukan login awal pada Git menggunakan Command Prompt (Windows) Git Bash
    
