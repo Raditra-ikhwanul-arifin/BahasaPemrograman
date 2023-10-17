@@ -1,5 +1,5 @@
 # latihanvcs
-CARA MENGGUNAKAN GIT
+Tutorial MENGGUNAKAN GIT
 
 Deskripsi
 
