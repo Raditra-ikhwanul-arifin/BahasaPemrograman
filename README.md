@@ -29,6 +29,7 @@ Login GitHub ke website https://github.com/
 
 3. Buat Repository
 
+![alt text](https://github.com/Raditraikh/BahasaPemrograman/blob/main/WhatsApp%20Image%202023-10-17%20at%2022.04.42_b684fe89.jpg?raw=true)
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.
 
 4. Buat Folder
