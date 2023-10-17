@@ -24,6 +24,8 @@ Login GitHub ke website https://github.com/
 
   $ git config --global user.email "EmailAnda@gmail.com"
   
+  ![alt text](https://github.com/Raditraikh/BahasaPemrograman/blob/main/WhatsApp%20Image%202023-10-17%20at%2021.56.11_71c697d4.jpg?raw=true)
+  
 
 3. Buat Repository
 
