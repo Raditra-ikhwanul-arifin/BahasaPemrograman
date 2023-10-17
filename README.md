@@ -50,6 +50,8 @@ Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah beriku
 
 
   $ git init
+
+  ![alt text](https://github.com/Raditraikh/BahasaPemrograman/blob/main/WhatsApp%20Image%202023-10-17%20at%2022.24.52_bddab21c.jpg?raw=true)
   
 
 7. Tambahkan File ke Repository
